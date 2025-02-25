@@ -1,7 +1,7 @@
 spring:
   name: primoserver
   datasource:
-    url: jdbc:mysql://localhost:3306/test?allowPublicKeyRetrieval=true&useSSL=false
+    url: jdbc:mysql://localhost:3306/testfinale?allowPublicKeyRetrieval=true&useSSL=false
     username: root
     password: Password123@
   jpa:
